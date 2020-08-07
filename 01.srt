@@ -1,0 +1,1243 @@
+1
+00:00:11,970 --> 00:00:14,760
+<i>No ano 2020 d.C.,</i>
+
+2
+00:00:15,010 --> 00:00:18,140
+<i>o mundo humano está conectado por uma rede.</i>
+
+3
+00:00:18,260 --> 00:00:24,230
+<i>Dentro dela vivem formas de vida
+desconhecidas chamadas Digimon.</i>
+
+4
+00:00:43,370 --> 00:00:48,130
+<i>Oh Yeah! Seja forte, pule e se torne o vento</i>
+<i>Oh Yeah! tsuyogatte tobinotte kaze ni natte</i>
+
+5
+00:00:48,250 --> 00:00:54,220
+<i>Ultrapasse a órbita além do grande céu</i>
+<i>oozora kidou wo koero</i>
+
+6
+00:01:06,020 --> 00:01:10,980
+<i>Sigo em frente nessa velocidade que não consigo segurar</i>
+<i>osaekirenai maenomeri na speed</i>
+
+7
+00:01:11,110 --> 00:01:15,990
+<i>Uma cidade que já me acostumei em ver se torna um diorama</i>
+<i>minareta machi ga diorama ni naru</i>
+
+8
+00:01:16,110 --> 00:01:21,200
+<i>Vou atravessar esse céu sujo</i>
+<i>futoumei na sora tsukinukerunda</i>
+
+9
+00:01:21,330 --> 00:01:26,370
+<i>Sopre para longe suas preocupações e insatisfações</i>
+<i>nayami toka fuman toka futtobashite</i>
+
+10
+00:01:26,500 --> 00:01:31,800
+<i>Eu não preciso que minha jornada siga um manual</i>
+<i>manual doori no tabi nanka irane</i>
+
+11
+00:01:31,920 --> 00:01:37,590
+<i>Mesmo que me perca, ou trema de medo, 
+preciso aumentar a altitude</i>
+<i>mayottemo furuetemo koudo agete</i>
+
+12
+00:01:37,720 --> 00:01:42,470
+<i>Oh Yeah! Ostente, erre e volte a se levantar</i>
+<i>Oh Yeah! ikigatte shikujitte tachiagatte</i>
+
+13
+00:01:42,600 --> 00:01:47,690
+<i>Eu observo esse horizonte desconhecido com você</i>
+<i>kimi to mitsumeru michi naru chiheisen</i>
+
+14
+00:01:47,810 --> 00:01:52,570
+<i>Agora seja forte, pule e se torne o vento</i>
+<i>saa tsuyogatte tobinotte kaze ni natte</i>
+
+15
+00:01:52,690 --> 00:01:58,360
+<i>Use o sol que ilumina o amanhã como seu guia</i>
+<i>asu wo terasu taiyou
+mejirushi ni shitesa</i>
+
+16
+00:01:58,490 --> 00:02:04,200
+<i>E saia voando em direção a um Mundo Glorioso de liberdade</i>
+<i>tonde yuke jiyuu na Glorious World</i>
+
+17
+00:02:08,120 --> 00:02:09,250
+Discando...
+
+18
+00:02:09,370 --> 00:02:10,130
+Verificando nome e senha
+
+19
+00:02:10,250 --> 00:02:11,920
+Conectado
+
+20
+00:02:12,040 --> 00:02:13,750
+<i>A Network.</i>
+
+21
+00:02:16,420 --> 00:02:19,010
+<i>Ela expande o futuro da 
+humanidade e do mundo.</i>
+
+22
+00:02:19,130 --> 00:02:22,180
+<i>E continua a evoluir.</i>
+
+23
+00:02:27,640 --> 00:02:32,980
+<i>Agora, está prestes a se conectar 
+a um território ainda desconhecido.</i>
+
+24
+00:02:52,880 --> 00:02:56,100
+A Crise Digital de Tóquio
+
+25
+00:02:57,800 --> 00:02:59,510
+Saco de dormir, certo.
+
+26
+00:02:59,630 --> 00:03:01,390
+Garrafa de água, certo.
+
+27
+00:03:01,890 --> 00:03:04,470
+Ah... Minhas luvas...
+
+28
+00:03:05,140 --> 00:03:05,890
+Ah.
+
+29
+00:03:06,680 --> 00:03:09,350
+<i>Mãe, você já chegou? Que rápido.</i>
+
+30
+00:03:09,480 --> 00:03:11,770
+Ainda estamos em Shibuya, trocando de trem.
+
+31
+00:03:12,270 --> 00:03:13,940
+Poxa, eu me sinto tão perdida.
+
+32
+00:03:14,060 --> 00:03:17,820
+<i>Por isso eu disse para ter 
+as aulas perto de casa.</i>
+
+33
+00:03:17,940 --> 00:03:19,530
+-<i>Repelente, certo.
+</i>- Sim, sim.
+
+34
+00:03:19,650 --> 00:03:21,410
+Está se preparando para o acampamento?
+
+35
+00:03:21,530 --> 00:03:22,610
+<i>Sim, estou.</i>
+
+36
+00:03:22,740 --> 00:03:25,410
+<i>Calças, certo. Camisa, certo.</i>
+
+37
+00:03:25,700 --> 00:03:26,950
+<i>Hikari!</i>
+
+38
+00:03:27,870 --> 00:03:29,330
+<i>Boa sorte!</i>
+
+39
+00:03:30,120 --> 00:03:30,870
+<i>Certo.</i>
+
+40
+00:03:31,000 --> 00:03:32,880
+<i>Vamos entrar no trem, vou desligar.</i>
+
+41
+00:03:33,000 --> 00:03:34,080
+Certo.
+
+42
+00:03:34,210 --> 00:03:35,170
+Ah.
+
+43
+00:03:35,290 --> 00:03:36,170
+Ufa...
+
+44
+00:03:36,300 --> 00:03:38,550
+Agora, um intervalo!
+
+45
+00:03:38,670 --> 00:03:40,720
+<i>O governo também foi afetado...</i>
+
+46
+00:03:40,840 --> 00:03:41,550
+Hã?
+
+47
+00:03:46,560 --> 00:03:47,310
+Ei.
+
+48
+00:03:47,760 --> 00:03:50,230
+Prazer, eu sou do andar de cima...
+
+49
+00:03:50,350 --> 00:03:52,310
+Ah, eu vi você por aí.
+
+50
+00:03:52,440 --> 00:03:53,900
+Você está na quarta série.
+
+51
+00:03:54,020 --> 00:03:56,570
+Meu nome é Koshiro Izumi.
+
+52
+00:03:57,940 --> 00:03:59,610
+Eu sou Taichi Yagami.
+
+53
+00:03:59,740 --> 00:04:00,570
+Prazer.
+
+54
+00:04:02,150 --> 00:04:03,660
+Sim, bem...
+
+55
+00:04:03,780 --> 00:04:05,450
+Prazer.
+
+56
+00:04:05,570 --> 00:04:07,200
+Ah, e isso...
+
+57
+00:04:07,330 --> 00:04:10,200
+Eu tenho uma pergunta sobre o 
+próximo acampamento para crianças.
+
+58
+00:04:10,330 --> 00:04:12,410
+Bem, eu estou no mesmo 
+grupo que você, Yagami...
+
+59
+00:04:12,540 --> 00:04:13,790
+Pode me chamar de Taichi.
+
+60
+00:04:13,920 --> 00:04:15,330
+Anda, pode entrar.
+
+61
+00:04:15,460 --> 00:04:17,090
+Não, isso...
+
+62
+00:04:17,210 --> 00:04:19,920
+Tudo bem, 
+eu não estou fazendo nada mesmo.
+
+63
+00:04:20,050 --> 00:04:24,430
+<i>Agora estamos relatando um grande ataque 
+ciberterrorista que atingiu o centro de Tóquio.</i>
+
+64
+00:04:24,550 --> 00:04:26,600
+<i>Os danos confirmados até agora são...</i>
+
+65
+00:04:26,720 --> 00:04:29,350
+Pode me mostrar isso?
+
+66
+00:04:29,470 --> 00:04:32,180
+Servidores do Governo Derrubados
+É possível que seja um grande ataque ciberterrorista
+<i>Agora estamos mostrando 
+a situação em Shinjuku.</i>
+
+67
+00:04:32,180 --> 00:04:32,310
+Servidores do Governo Derrubados
+É possível que seja um grande ataque ciberterrorista
+
+68
+00:04:32,310 --> 00:04:33,770
+-<i> Outros dispositivos também não estão funcionando...</i>
+- Parece um problemão.
+Servidores do Governo Derrubados
+É possível que seja um grande ataque ciberterrorista
+
+69
+00:04:33,770 --> 00:04:35,810
+-<i> Outros dispositivos também não estão funcionando...</i>
+- Parece um problemão.
+
+70
+00:04:35,940 --> 00:04:37,190
+Muito obrigado.
+
+71
+00:04:37,310 --> 00:04:38,270
+Hã?
+
+72
+00:04:45,860 --> 00:04:47,780
+Ah, me desculpe.
+
+73
+00:04:47,910 --> 00:04:51,330
+Bem, essa é a minha <i>timeline</i>.
+
+74
+00:04:51,450 --> 00:04:55,460
+Estou conectado com um monte de 
+pessoas de vários campos diferentes.
+
+75
+00:04:55,580 --> 00:05:01,300
+Eu posso fazer uma pergunta e buscar 
+qualquer informação que eu quiser ou precisar.
+
+76
+00:05:01,420 --> 00:05:02,210
+Incrível.
+
+77
+00:05:02,340 --> 00:05:03,130
+Hã?
+
+78
+00:05:03,260 --> 00:05:06,840
+Eu sou muito ruim com esse tipo de coisa.
+
+79
+00:05:07,300 --> 00:05:09,350
+Você é demais.
+
+80
+00:05:11,520 --> 00:05:12,600
+Mesmo assim...
+
+81
+00:05:13,430 --> 00:05:13,770
+A forma de dispersão é anormal.
+
+82
+00:05:13,770 --> 00:05:16,140
+<i>"É um blecaute?
+O que está acontecendo?</i>
+A forma de dispersão é anormal.
+
+83
+00:05:16,270 --> 00:05:18,690
+<i>Faltou luz?
+Está um congestionamento na estrada!</i>
+A cidade está uma confusão.
+
+84
+00:05:18,690 --> 00:05:19,110
+<i>Faltou luz?
+Está um congestionamento na estrada!</i>
+
+85
+00:05:19,610 --> 00:05:22,230
+Logo pode acontecer alguma 
+coisa aqui perto...
+
+86
+00:05:22,360 --> 00:05:24,320
+Espero que tenhamos energia elétrica.
+
+87
+00:05:24,440 --> 00:05:27,700
+Talvez eu devesse comprar 
+água potável e pilhas...
+
+88
+00:05:28,370 --> 00:05:29,120
+Hã?
+
+89
+00:05:29,240 --> 00:05:30,780
+O que é isso?
+<i>O trem está doido</i>
+
+90
+00:05:30,910 --> 00:05:32,240
+Os trens?
+<i>O que deu no trem?</i>
+
+91
+00:05:34,660 --> 00:05:36,250
+Hã? Essa não!
+
+92
+00:05:38,170 --> 00:05:39,500
+O que é isso?
+
+93
+00:05:39,630 --> 00:05:42,080
+- Não dá para controlar?
+- A tentativa de acesso daqui está sendo negada.
+
+94
+00:05:42,090 --> 00:05:45,760
+<i>Eles perderam o controle da linha 
+circular do metrô de Tóquio.</i>
+
+95
+00:05:45,880 --> 00:05:48,390
+Os trens não estão mais parando!
+
+96
+00:05:48,510 --> 00:05:50,890
+Desse jeito, vai ter um acidente!
+
+97
+00:05:51,010 --> 00:05:52,730
+Mãe
+
+98
+00:05:53,770 --> 00:05:55,140
+Taichi?
+
+99
+00:05:55,270 --> 00:05:57,600
+Elas disseram que estavam 
+pegando o trem em Shibuya.
+
+100
+00:05:57,730 --> 00:05:58,480
+Hã?
+
+101
+00:05:58,600 --> 00:06:01,480
+Elas podem estar lá dentro! 
+Minha mãe e minha irmã!
+
+102
+00:06:01,610 --> 00:06:03,230
+Na linha circular do metrô?
+
+103
+00:06:03,730 --> 00:06:05,150
+Shibuya...
+
+104
+00:06:05,280 --> 00:06:09,280
+Se pegarmos o trem expresso, 
+chegaremos em 12 ou 13 minutos.
+
+105
+00:06:10,370 --> 00:06:12,080
+<i>Alô, Taichi?</i>
+
+106
+00:06:12,660 --> 00:06:14,750
+Desculpe, eu tive que colocar no silencioso...
+
+107
+00:06:14,870 --> 00:06:16,330
+<i>Mãe, onde você está agora?</i>
+
+108
+00:06:16,460 --> 00:06:19,710
+Agora nós estamos no trem.
+Eu ligo depois.
+
+109
+00:06:25,420 --> 00:06:25,670
+Taichi
+
+110
+00:06:25,670 --> 00:06:27,380
+<i>Alô? Alô?</i>
+Taichi
+
+111
+00:06:27,380 --> 00:06:27,510
+Taichi
+
+112
+00:06:27,510 --> 00:06:28,800
+<i>Mãe? Mãe!</i>
+Taichi
+
+113
+00:06:28,800 --> 00:06:28,890
+Taichi
+
+114
+00:06:29,220 --> 00:06:30,300
+Hikari!
+
+115
+00:06:30,680 --> 00:06:31,800
+<i>A operação das linhas 
+de trem foi interrompida.</i>
+
+116
+00:06:33,850 --> 00:06:37,430
+"No momento, estamos com um problema 
+com todas as linhas metropolitanas."
+
+117
+00:06:37,940 --> 00:06:43,360
+Estão dizendo que a falta de controle da 
+linha circular é especialmente perigosa.
+
+118
+00:06:44,900 --> 00:06:46,780
+Elas estavam no trem?
+
+119
+00:06:48,240 --> 00:06:51,320
+O trânsito também não está fluindo, 
+então não dá para ir de carro.
+
+120
+00:06:51,450 --> 00:06:52,570
+O que devemos fazer?
+
+121
+00:06:52,700 --> 00:06:57,960
+Daqui até Shibuya, devem ser uns 12 
+quilômetros acompanhando os trilhos.
+
+122
+00:06:59,790 --> 00:07:01,210
+Ei, você!
+
+123
+00:07:26,020 --> 00:07:26,900
+<i>Taichi!</i>
+
+124
+00:07:41,120 --> 00:07:43,630
+Taichi?
+
+125
+00:07:58,470 --> 00:08:00,390
+Opa...
+
+126
+00:08:10,070 --> 00:08:11,400
+O quê?
+
+127
+00:08:11,700 --> 00:08:14,360
+O que aconteceu comigo?
+
+128
+00:08:15,030 --> 00:08:16,830
+Eu ouvi a voz de alguém...
+
+129
+00:08:16,950 --> 00:08:18,200
+E então...
+
+130
+00:08:18,330 --> 00:08:19,080
+Hã?
+
+131
+00:09:21,220 --> 00:09:23,140
+<i>Aconteceu alguma coisa.</i>
+
+132
+00:09:23,270 --> 00:09:27,520
+Alguma coisa anormal... 
+Além do nosso entendimento.
+
+133
+00:09:31,150 --> 00:09:31,900
+Eu...
+
+134
+00:09:32,780 --> 00:09:33,570
+Hã?
+
+135
+00:10:15,280 --> 00:10:16,280
+Hã?
+
+136
+00:10:19,410 --> 00:10:21,200
+- E aí!
+- Hã?
+
+137
+00:10:23,540 --> 00:10:25,660
+Eu sou o Agumon!
+
+138
+00:10:26,000 --> 00:10:28,670
+Finalmente encontrei você, Taichi!
+
+139
+00:10:28,790 --> 00:10:30,750
+Agu... mon?
+
+140
+00:10:31,540 --> 00:10:33,710
+Como você sabe o meu nome?
+
+141
+00:10:35,090 --> 00:10:36,420
+Ah, é!
+
+142
+00:10:36,550 --> 00:10:38,220
+Ei, onde nós estamos?
+
+143
+00:10:38,510 --> 00:10:40,930
+Eu tenho que ir para um lugar...
+
+144
+00:10:41,050 --> 00:10:42,890
+Hã? O que é aquilo?
+
+145
+00:10:52,190 --> 00:10:54,610
+Não se preocupe, Taichi.
+
+146
+00:10:55,150 --> 00:10:57,820
+Eu vou lutar!
+
+147
+00:11:15,250 --> 00:11:17,510
+Chama Neném!
+
+148
+00:11:29,060 --> 00:11:31,060
+Ai, ai, ai...
+
+149
+00:11:32,060 --> 00:11:33,150
+Opa!
+
+150
+00:11:40,240 --> 00:11:41,200
+<i>Taichi!</i>
+
+151
+00:11:41,320 --> 00:11:43,320
+<i>Está me ouvindo, Taichi?</i>
+
+152
+00:11:43,450 --> 00:11:45,870
+<i>É Koshiro Izumi.</i>
+
+153
+00:11:45,990 --> 00:11:47,410
+Hã? Koshiro?
+
+154
+00:11:47,540 --> 00:11:49,450
+<i>Que bom que consegui me conectar com você!</i>
+
+155
+00:11:49,580 --> 00:11:51,540
+Mas onde você está? E como?
+
+156
+00:11:51,670 --> 00:11:53,960
+Algo estranho acabou de acontecer comigo.
+
+157
+00:11:54,080 --> 00:11:57,710
+<i>Não se preocupe. Eu consigo 
+ver você daqui, Taichi.</i>
+
+158
+00:11:57,840 --> 00:11:59,590
+Hã? Você consegue me ver?
+
+159
+00:11:59,720 --> 00:12:00,880
+<i>E...</i>
+
+160
+00:12:01,010 --> 00:12:02,840
+Desculpe, espere um pouco.
+
+161
+00:12:02,970 --> 00:12:04,140
+<i>Ah, tudo bem!</i>
+
+162
+00:12:04,550 --> 00:12:06,350
+Ai, ai, ai, ai!
+
+163
+00:12:24,070 --> 00:12:25,740
+Obrigado, Taichi.
+
+164
+00:12:25,870 --> 00:12:27,830
+S-Sim...
+
+165
+00:12:29,620 --> 00:12:31,960
+Deixa o resto comigo!
+
+166
+00:12:32,290 --> 00:12:36,710
+<i>E quanto ao lugar em que você 
+está agora, Taichi...</i>
+
+167
+00:12:37,210 --> 00:12:38,630
+<i>Olha só...</i>
+
+168
+00:12:38,750 --> 00:12:41,630
+<i>Você está dentro da net.</i>
+
+169
+00:12:42,510 --> 00:12:46,550
+<i>É um lugar dentro do 
+que chamamos de Network.</i>
+
+170
+00:12:46,680 --> 00:12:51,480
+<i>É um mundo inacreditável onde tudo 
+que é feito de dados ganha forma.</i>
+
+171
+00:12:52,140 --> 00:12:53,640
+Dentro da Net?
+
+172
+00:12:53,770 --> 00:12:55,020
+Aqui?
+
+173
+00:12:55,310 --> 00:12:56,690
+<i>Foi quando...</i>
+
+174
+00:12:57,060 --> 00:12:59,150
+<i>Nós nos encontramos com eles.</i>
+
+175
+00:12:59,480 --> 00:13:03,820
+<i>Formas de vidas ativas que 
+habitam o mundo da Network!</i>
+
+176
+00:13:03,950 --> 00:13:07,410
+Chama Neném!
+
+177
+00:13:14,920 --> 00:13:19,170
+Nós somos... monstros que 
+vivem dentro do Mundo Digital.
+
+178
+00:13:19,290 --> 00:13:21,130
+Nós somos Digimons.
+
+179
+00:13:22,210 --> 00:13:23,800
+Digimon...
+
+180
+00:13:24,300 --> 00:13:27,260
+<i>Sinceramente, tudo pode ser surpreendente.</i>
+
+181
+00:13:28,350 --> 00:13:31,520
+<i>Esse não é o mesmo que você tem?</i>
+
+182
+00:13:32,640 --> 00:13:35,230
+Depois que você sumiu da estação,
+
+183
+00:13:35,350 --> 00:13:38,520
+ele de repente apareceu para mim.
+
+184
+00:13:38,650 --> 00:13:42,190
+Na mesma hora, meu tablet...
+
+185
+00:13:42,320 --> 00:13:44,070
+Ficou incrível!
+
+186
+00:13:44,360 --> 00:13:45,530
+Taichi,
+
+187
+00:13:45,900 --> 00:13:49,490
+acho que agora eu posso ajudá-lo!
+
+188
+00:13:52,660 --> 00:13:55,790
+<i>Ei, esses grandes grupos 
+também são Digimons?</i>
+
+189
+00:13:55,910 --> 00:13:56,670
+Sim.
+
+190
+00:13:57,290 --> 00:14:02,090
+E eu acredito que eles são similares 
+a vírus que atacam dados.
+
+191
+00:14:02,210 --> 00:14:06,590
+<i>Muitos deles apareceram de 
+repente e saíram do controle!</i>
+
+192
+00:14:06,720 --> 00:14:09,140
+Logo que o grupo de monstros desapareceu,
+
+193
+00:14:09,260 --> 00:14:14,390
+eu consegui confirmar uma recuperação em 
+um dos locais que estava tendo problema.
+
+194
+00:14:14,930 --> 00:14:19,400
+Os culpados por esse ataque 
+ciberterrorista são esses Digimons.
+
+195
+00:14:19,520 --> 00:14:22,440
+Deve ser por isso que não 
+conseguiram identificar a causa.
+
+196
+00:14:22,570 --> 00:14:23,610
+<i>Quer dizer...</i>
+
+197
+00:14:23,730 --> 00:14:26,450
+<i>Ah! E a linha circular do 
+metrô? Como está agora?</i>
+
+198
+00:14:27,570 --> 00:14:30,200
+Ela segue descontrolada.
+
+199
+00:14:30,990 --> 00:14:33,160
+<i>O que devemos fazer, Koshiro?</i>
+
+200
+00:14:33,870 --> 00:14:35,910
+Eu vou guiar vocês.
+
+201
+00:14:36,040 --> 00:14:40,170
+<i>Tem uma área que gerencia o sistema 
+de controle da linha circular.</i>
+
+202
+00:14:40,290 --> 00:14:43,550
+<i>Eu sei que deve ter um Digimon 
+atacando neste lugar.</i>
+
+203
+00:14:45,800 --> 00:14:46,630
+Eu sabia!
+
+204
+00:14:47,170 --> 00:14:49,970
+Tem sinais parecidos com 
+os dos Digimons anteriores!
+
+205
+00:14:50,090 --> 00:14:51,430
+<i>Sem dúvidas!</i>
+
+206
+00:14:51,550 --> 00:14:53,310
+<i>Se conseguirmos recuperar essa região,</i>
+
+207
+00:14:53,430 --> 00:14:56,230
+<i>eles devem conseguir recuperar 
+o controle e parar os trens!</i>
+
+208
+00:14:57,100 --> 00:15:00,900
+Taichi, você quer proteger alguém 
+importante para você, não é?
+
+209
+00:15:01,360 --> 00:15:03,230
+Eu vou me esforçar ao máximo!
+
+210
+00:15:03,480 --> 00:15:04,360
+Agumon!
+
+211
+00:15:09,110 --> 00:15:12,200
+Chama Neném!
+
+212
+00:15:24,170 --> 00:15:25,880
+Só mais um...
+
+213
+00:15:26,000 --> 00:15:26,760
+Hã?
+
+214
+00:15:29,880 --> 00:15:32,220
+<i>Algo estranho!</i>
+
+215
+00:15:32,340 --> 00:15:37,390
+<i>Parece que todos os dados nessa região 
+se concentram num único lugar!</i>
+
+216
+00:15:52,820 --> 00:15:53,820
+Agumon!
+
+217
+00:15:57,330 --> 00:15:58,660
+Taichi!
+
+218
+00:15:59,540 --> 00:16:00,910
+<i>Eu estou bem.</i>
+
+219
+00:16:03,250 --> 00:16:04,000
+Agumon!
+
+220
+00:16:04,130 --> 00:16:05,340
+<i>Tenha cuidado!</i>
+
+221
+00:16:05,790 --> 00:16:09,550
+O último está mudando rapidamente!
+
+222
+00:16:10,260 --> 00:16:11,930
+<i>O que está acontecendo?</i>
+
+223
+00:16:12,050 --> 00:16:15,100
+<i>Taichi, você pode querer 
+se afastar um pouco...</i>
+
+224
+00:16:26,610 --> 00:16:29,230
+Ele... evoluiu.
+
+225
+00:16:30,030 --> 00:16:32,280
+Evoluiu?
+
+226
+00:16:39,040 --> 00:16:40,580
+<i>Isso é...</i>
+
+227
+00:16:41,870 --> 00:16:45,130
+<i>A evolução de um Digimon?</i>
+
+228
+00:16:47,000 --> 00:16:49,420
+A situação na linha 
+circular está mudando...
+
+229
+00:16:50,510 --> 00:16:53,720
+Um dos trens descontrolados 
+começou a acelerar?
+
+230
+00:16:53,840 --> 00:16:56,300
+Está alcançando o trem que está na frente!
+
+231
+00:16:57,350 --> 00:16:59,220
+<i>Essa não, Taichi!</i>
+
+232
+00:16:59,350 --> 00:17:01,810
+<i>Nesse ritmo, os dois trens vão bater!</i>
+
+233
+00:17:01,930 --> 00:17:03,850
+<i>Vai ser um grande acidente!</i>
+
+234
+00:17:09,860 --> 00:17:11,070
+Agumon?
+
+235
+00:17:11,440 --> 00:17:12,820
+Agumon!
+
+236
+00:17:42,430 --> 00:17:44,810
+Esta é... a evolução do Agumon...
+
+237
+00:18:02,540 --> 00:18:06,710
+Agumon Digivolve para...
+
+238
+00:18:29,560 --> 00:18:31,480
+Greymon!
+
+239
+00:18:46,160 --> 00:18:47,710
+Greymon...
+
+240
+00:18:50,080 --> 00:18:50,880
+Taichi.
+
+241
+00:18:58,510 --> 00:19:01,600
+<i>Taichi, Greymon, não temos mais tempo!</i>
+
+242
+00:19:01,720 --> 00:19:03,310
+<i>Por favor, se apressem!</i>
+
+243
+00:19:20,570 --> 00:19:21,370
+Lá vem!
+
+244
+00:20:28,890 --> 00:20:32,140
+Mega Chama!
+
+245
+00:20:59,250 --> 00:21:03,300
+<i>O programa de parada de emergência foi 
+ativado em todos os trens da linha circular!</i>
+
+246
+00:21:03,680 --> 00:21:05,470
+<i>A colisão foi evitada.</i>
+
+247
+00:21:05,590 --> 00:21:07,430
+<i>Conseguimos, Taichi!</i>
+
+248
+00:21:07,680 --> 00:21:08,720
+Sim...
+
+249
+00:21:09,350 --> 00:21:11,640
+Conseguimos, mesmo.
+
+250
+00:21:13,730 --> 00:21:15,850
+Obrigado, Koshiro.
+
+251
+00:21:24,320 --> 00:21:25,160
+Obrigado...
+
+252
+00:21:25,780 --> 00:21:26,820
+Greymon.
+
+253
+00:21:27,370 --> 00:21:28,410
+Sim.
+
+254
+00:21:33,080 --> 00:21:34,080
+<i>Hã?</i>
+
+255
+00:21:34,210 --> 00:21:36,880
+<i>Há um novo ataque ciberterrorista...</i>
+
+256
+00:21:37,000 --> 00:21:39,920
+<i>Não, é outro ataque de Digimon!</i>
+
+257
+00:21:40,050 --> 00:21:42,710
+Dessa vez... É nos EUA?
+
+258
+00:21:43,340 --> 00:21:47,720
+<i>Parece que a rede de dados táticos do 
+exército americano está sendo atacada!</i>
+
+259
+00:21:48,100 --> 00:21:52,180
+<i>Se não impedirmos isso agora e
+tomarem o sistema militar deles,</i>
+
+260
+00:21:52,310 --> 00:21:54,640
+<i>da próxima vez, uma arma 
+vai sair do controle.</i>
+
+261
+00:21:54,770 --> 00:21:56,730
+<i>Se isso acontecer,</i>
+
+262
+00:21:56,850 --> 00:21:59,770
+<i>será o fim do mundo!</i>
+
+263
+00:22:01,900 --> 00:22:07,280
+<i>Eu corri descontrolado, como se fosse tropeçar</i>
+<i>korogaru youni gamushara ni hashitta</i>
+
+264
+00:22:07,410 --> 00:22:11,160
+<i>(O que está me esperando?)</i>
+<i>(nani ga matteru no?)</i>
+
+265
+00:22:12,450 --> 00:22:17,670
+<i>O vento contrário me ensinou muitas coisas</i>
+<i>mukaikaze ga oshiete kuretanda</i>
+
+266
+00:22:17,790 --> 00:22:21,550
+<i>(Tenha fé e siga e frente)</i>
+<i>(shinjite susume)</i>
+
+267
+00:22:21,670 --> 00:22:24,380
+<i>A frustração que eu aprendi ao ser derrotado é uma semente</i>
+<i>yaburete shitta kuyashisa wa tane</i>
+
+268
+00:22:24,510 --> 00:22:27,010
+<i>E finalmente ela vai brotar e se tornar asas</i>
+<i>yagate mebuki hane to naru</i>
+
+269
+00:22:27,130 --> 00:22:30,850
+<i>Eu bato nessa porta porque</i>
+<i>sono tobira tataku riyuu</i>
+
+270
+00:22:30,970 --> 00:22:36,690
+<i>o agora vai construir o futuro</i>
+<i>ima ga mirai wo tsukuru kara</i>
+
+271
+00:22:36,810 --> 00:22:38,980
+<i>Se quiser encontrar um arco-íris,</i>
+<i>niji wo mitsuketai nara</i>
+
+272
+00:22:39,100 --> 00:22:42,150
+<i>precisa levantar o rosto</i>
+<i>kao wo agenakuchatte</i>
+
+273
+00:22:42,270 --> 00:22:47,400
+<i>As mãos que se estendem para nós 
+sempre nos fazem mais fortes</i>
+<i>sashidasareta te ga
+bokura wo zutto tsuyoku suru</i>
+
+274
+00:22:47,530 --> 00:22:49,490
+<i>Se quiser agarrar o seu sonho,</i>
+<i>yume wo tsukamitai nara</i>
+
+275
+00:22:49,620 --> 00:22:52,780
+<i>antes desse primeiro passo em que estou tremendo</i>
+<i>furueru sono ippo mae ni</i>
+
+276
+00:22:52,910 --> 00:22:55,540
+<i>Preciso experimentar começar! </i>
+<i>fumi dashite goran yo</i>
+
+277
+00:22:55,660 --> 00:23:00,540
+<i>Porque agora eu sei que posso voar pelo céu</i>
+<i>ima nara kitto sora mo toberu kara</i>
+
+278
+00:23:02,250 --> 00:23:04,170
+<i>Digimons descontrolados 
+seguem à solta na Network.</i>
+
+279
+00:23:04,300 --> 00:23:08,430
+<i>Quando o tempo se aproxima do 
+fim, tudo depende de Taichi e Agumon.</i>
+
+280
+00:23:08,550 --> 00:23:11,010
+<i>No próximo episódio de 
+Digimon Adventure: "War Game".</i>
+
+281
+00:23:11,010 --> 00:23:11,640
+War Game
+<i>No próximo episódio de 
+Digimon Adventure: "War Game".</i>
+
+282
+00:23:11,640 --> 00:23:11,760
+War Game
+
+283
+00:23:11,760 --> 00:23:13,010
+<i>A aventura continua rumo a um novo mundo.</i>
+War Game
+
+284
+00:23:13,010 --> 00:23:14,390
+<i>A aventura continua rumo a um novo mundo.</i>
+
